@@ -1,0 +1,5 @@
+# 忽略spring2025-lectures文件夹
+spring2025-lectures/
+
+# 忽略referAssignment文件夹
+referAssignment/
